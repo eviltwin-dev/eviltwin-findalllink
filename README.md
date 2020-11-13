@@ -1,5 +1,3 @@
-# eviltwin-findalllink
-
 # What are these tools?
 This tool functions to find all urls contained on the target website.
 # How do I run it?
